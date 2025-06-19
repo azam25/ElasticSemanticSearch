@@ -23,19 +23,14 @@ Leverage the power of **Elastic Search** and **AI-based semantic search** to per
 - `PyPDF2`
 
 ### Install Python dependencies:
-```bash
+
 pip install elasticsearch>=8.0.0,<9.0.0 sentence-transformers PyPDF2
 
-Absolutely, Azam! Here’s a professional, copy-paste-ready README.md section specifically for Installation & Configuration—from running ElasticSearch with Docker, to installing Python dependencies, to getting your first hybrid search running.
 
-⸻
-
-
-## 🚀 Installation & Configuration
+### 🚀 Installation & Configuration
 
 This section will guide you from setting up ElasticSearch with Docker, to installing dependencies, to indexing your first PDF for hybrid semantic search.
 
----
 
 ### 1. Run ElasticSearch Server with Docker
 
